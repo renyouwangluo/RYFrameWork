@@ -1,0 +1,5 @@
+<page>
+   <item name="test/TestScene.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="GameMain.scene" props="" ifExport="文件模式" aName=""/>
+   <item name="View/Loading.scene" props="" ifExport="内嵌模式" aName=""/>
+</page>
